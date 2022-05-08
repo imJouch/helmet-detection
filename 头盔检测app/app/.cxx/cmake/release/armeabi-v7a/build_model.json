@@ -1,0 +1,68 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本",
+      "sdkFolder": "/Users/jouch/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app",
+      "makeFile": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/.cxx",
+      "cxxFolder": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx",
+      "ndkFolder": "/Users/jouch/Library/Android/sdk/ndk-bundle",
+      "ndkVersion": "23.0.7196353-rc2",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/build/intermediates/cmake/release/lib",
+    "objFolder": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/build/intermediates/cmake/release/obj",
+    "jsonFolder": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release",
+    "gradleBuildOutputFolder": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/armeabi-v7a",
+  "jsonFile": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cxx/release/armeabi-v7a",
+  "objFolder": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/build/intermediates/cmake/release/obj/armeabi-v7a",
+  "buildCommandFile": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/armeabi-v7a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cxx/release/armeabi-v7a/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cxx/release/armeabi-v7a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cxx/release/armeabi-v7a/build_generation_state.json",
+    "cacheKeyFile": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cxx/release/armeabi-v7a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cxx/release/armeabi-v7a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cxx/release/armeabi-v7a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cxx/release/armeabi-v7a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/armeabi-v7a/compile_commands.json"
+}

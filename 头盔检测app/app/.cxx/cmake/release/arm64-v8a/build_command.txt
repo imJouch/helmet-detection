@@ -1,0 +1,19 @@
+Executable : /Users/jouch/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni
+-B/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/arm64-v8a
+-DANDROID_ABI=arm64-v8a
+-DANDROID_PLATFORM=android-24
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/build/intermediates/cmake/release/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=/Users/jouch/Library/Android/sdk/ndk-bundle
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DCMAKE_SYSTEM_VERSION=24
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_ANDROID_NDK=/Users/jouch/Library/Android/sdk/ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=/Users/jouch/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-G Ninja
+-DCMAKE_MAKE_PROGRAM=/Users/jouch/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+jvmArgs : 
+

@@ -1,0 +1,4 @@
+#Thu Apr 01 20:21:49 CST 2021
+base.0=/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,63 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        jouch {
+            keyPassword 'wp199809130525'
+            storeFile file('/Users/jouch/Downloads/hellocj.keystore')
+            storePassword 'wp199809130525'
+            keyAlias 'testcj'
+        }
+    }
+    compileSdkVersion 29
+    buildToolsVersion "29.0.2"
+
+    defaultConfig {
+        applicationId "com.tencent.yolov5ncnn"
+        archivesBaseName = "$applicationId"
+        versionCode 1
+        versionName "1.0"
+        ndk {
+            moduleName "ncnn-20210322-android-vulkan"
+            abiFilters "armeabi-v7a", "arm64-v8a"
+        }
+        minSdkVersion 24
+        targetSdkVersion 29
+    }
+
+    externalNativeBuild {
+        cmake {
+            version "3.10.2"
+            path file('src/main/jni/CMakeLists.txt')
+        }
+    }
+    buildTypes {
+        release {
+            applicationIdSuffix 'crack'
+            versionNameSuffix '1.0'
+           // jniDebuggable true
+            renderscriptOptimLevel 3
+            signingConfig signingConfigs.jouch
+        }
+    }
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+    compileOptions{
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+}
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'com.squareup.okhttp3:okhttp:3.14.0'
+    implementation 'com.tbruyelle.rxpermissions2:rxpermissions:0.9.4@aar'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
+
+}

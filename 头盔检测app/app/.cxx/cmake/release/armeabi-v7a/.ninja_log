@@ -1,0 +1,3 @@
+# ninja log v5
+1	5176	1617278957	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	b3f2049a7a08203b
+5178	5895	1617278958	/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/build/intermediates/cmake/release/obj/armeabi-v7a/libyolov5ncnn.so	4ce5e29dc66689bf

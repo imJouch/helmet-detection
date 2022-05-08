@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/buttonPhoto"
+            android:layout_width="103dp"
+            android:layout_height="match_parent"
+            android:text="拍摄"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/buttonImage"
+            android:layout_width="99dp"
+            android:layout_height="72dp"
+            android:text="选图"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/buttonDetect"
+            android:layout_width="99dp"
+            android:layout_height="72dp"
+            android:text="识别"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="99dp"
+            android:layout_height="match_parent"
+            android:text="保存"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1" />
+
+</LinearLayout>

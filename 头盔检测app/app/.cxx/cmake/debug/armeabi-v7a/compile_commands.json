@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/jouch/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/jouch/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jouch/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dyolov5ncnn_EXPORTS -isystem /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/armeabi-v7a/include/ncnn  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -o CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o -c /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/yolov5ncnn_jni.cpp",
+  "file": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/yolov5ncnn_jni.cpp"
+}
+]

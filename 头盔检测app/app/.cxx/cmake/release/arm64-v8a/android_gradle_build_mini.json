@@ -1,0 +1,32 @@
+{
+  "buildFiles": [
+    "/Users/jouch/Library/Android/sdk/ndk-bundle/build/cmake/compiler_id.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnn.cmake",
+    "/Users/jouch/Library/Android/sdk/ndk-bundle/build/cmake/android-legacy.toolchain.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/CMakeLists.txt",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/OGLCompilerTargets-release.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/glslangTargets-release.cmake",
+    "/Users/jouch/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/OGLCompilerTargets.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/glslangTargets.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnn-release.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/SPIRVTargets-release.cmake",
+    "/Users/jouch/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/SPIRVTargets.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/OSDependentTargets.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/OSDependentTargets-release.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnnConfig.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/jouch/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/jouch/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Release-arm64-v8a": {
+      "artifactName": "yolov5ncnn",
+      "buildCommand": "/Users/jouch/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/arm64-v8a\" yolov5ncnn",
+      "abi": "arm64-v8a",
+      "output": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/build/intermediates/cmake/release/obj/arm64-v8a/libyolov5ncnn.so"
+    }
+  }
+}

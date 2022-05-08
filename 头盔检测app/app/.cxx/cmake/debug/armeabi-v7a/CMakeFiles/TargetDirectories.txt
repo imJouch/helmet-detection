@@ -1,0 +1,3 @@
+/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/yolov5ncnn.dir

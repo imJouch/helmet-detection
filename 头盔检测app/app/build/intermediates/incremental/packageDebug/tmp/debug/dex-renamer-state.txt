@@ -1,0 +1,7 @@
+#Thu Apr 01 20:21:04 CST 2021
+base.0=/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

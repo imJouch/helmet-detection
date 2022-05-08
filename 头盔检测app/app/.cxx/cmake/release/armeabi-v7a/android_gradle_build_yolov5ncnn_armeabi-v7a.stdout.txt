@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/armeabi-v7a'
+ninja: no work to do.

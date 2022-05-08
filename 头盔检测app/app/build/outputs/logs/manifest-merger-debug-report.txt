@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jouch/.gradle/caches/transforms-2/files-2.1/0f33ea22a789bbd7be3fd837de0e1997/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jouch/.gradle/caches/transforms-2/files-2.1/7ed3d5742d44fda4b6ae0e15eb8a96d9/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] /Users/jouch/.gradle/caches/transforms-2/files-2.1/b2f30e67315dfcd9200deda6e679bec4/rxpermissions-0.9.4/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/c68aa7379499b502a6a3463b0fc2c7c5/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/f7403a6115452b73da001ab379f50089/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/d1307c7818fcfaed337371a8352364e2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/978eebed75460df56f5a021139aa021f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jouch/.gradle/caches/transforms-2/files-2.1/ad961e24ba04a1e1841f7ed8c0d15265/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/30c94d137a2452df57ba85b63a61327b/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/abafcd730b93dc401e263c3d6bb92276/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/4a30d58ee29928a48066b38bdc1d3464/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/067154d4c64ec215bd634120b4c9ec5b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/f8a0429a5701e4aaae1236d141be6194/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/1d0248a54d54976130d2216ad58ddb3b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/df7008e27fca8136c93020aade0387c5/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/f88d56b18ea265b046dba8e3627054d5/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/jouch/.gradle/caches/transforms-2/files-2.1/75d1b6c461a6d5f4452ada4ecc5a6105/core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/0c1862394f95b16578c34adde7b24528/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/47c4e38a95087910cc8cc44344cf51f0/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/4ad8f1d2c61b21f6a3ad2f459d5485a6/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/ceee0ea4d673dfd6f653e7866a43e893/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/64369627ba101b77e2039962bf3b52f8/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/4f2a184e0cb415afc90c11d48f91246f/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/ed76d80430e9ad3255744a732e7ed969/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/a7e7ff19fa490b39e9a2341e3180972b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/65784b4722257490f711a4aa8fae514c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/c7e7ec4faddb03dacd0fc71915b0815e/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/7ddb4a511bf0374619b2af251cc8c8d8/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:3:7-39
+		INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:7:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:9:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:12:22-77
+application
+ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:13:5-34:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jouch/.gradle/caches/transforms-2/files-2.1/7ed3d5742d44fda4b6ae0e15eb8a96d9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jouch/.gradle/caches/transforms-2/files-2.1/7ed3d5742d44fda4b6ae0e15eb8a96d9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] /Users/jouch/.gradle/caches/transforms-2/files-2.1/b2f30e67315dfcd9200deda6e679bec4/rxpermissions-0.9.4/AndroidManifest.xml:11:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] /Users/jouch/.gradle/caches/transforms-2/files-2.1/b2f30e67315dfcd9200deda6e679bec4/rxpermissions-0.9.4/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/jouch/.gradle/caches/transforms-2/files-2.1/75d1b6c461a6d5f4452ada4ecc5a6105/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/jouch/.gradle/caches/transforms-2/files-2.1/75d1b6c461a6d5f4452ada4ecc5a6105/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/0c1862394f95b16578c34adde7b24528/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/0c1862394f95b16578c34adde7b24528/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/jouch/.gradle/caches/transforms-2/files-2.1/75d1b6c461a6d5f4452ada4ecc5a6105/core-1.0.1/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:13:18-44
+provider#androidx.core.content.FileProvider
+ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:14:9-24:20
+	android:grantUriPermissions
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:19:13-47
+	android:authorities
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:15:13-70
+	android:exported
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:17:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:20:13-22:54
+	android:resource
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:22:17-51
+	android:name
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:21:17-67
+activity#com.tencent.yolov5ncnn.MainActivity
+ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:27:9-33:20
+	android:label
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:28:19-51
+	android:name
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:27:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jouch/.gradle/caches/transforms-2/files-2.1/0f33ea22a789bbd7be3fd837de0e1997/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jouch/.gradle/caches/transforms-2/files-2.1/0f33ea22a789bbd7be3fd837de0e1997/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jouch/.gradle/caches/transforms-2/files-2.1/7ed3d5742d44fda4b6ae0e15eb8a96d9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jouch/.gradle/caches/transforms-2/files-2.1/7ed3d5742d44fda4b6ae0e15eb8a96d9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] /Users/jouch/.gradle/caches/transforms-2/files-2.1/b2f30e67315dfcd9200deda6e679bec4/rxpermissions-0.9.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] /Users/jouch/.gradle/caches/transforms-2/files-2.1/b2f30e67315dfcd9200deda6e679bec4/rxpermissions-0.9.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/c68aa7379499b502a6a3463b0fc2c7c5/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/c68aa7379499b502a6a3463b0fc2c7c5/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/f7403a6115452b73da001ab379f50089/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/f7403a6115452b73da001ab379f50089/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/d1307c7818fcfaed337371a8352364e2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/d1307c7818fcfaed337371a8352364e2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/978eebed75460df56f5a021139aa021f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/978eebed75460df56f5a021139aa021f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jouch/.gradle/caches/transforms-2/files-2.1/ad961e24ba04a1e1841f7ed8c0d15265/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jouch/.gradle/caches/transforms-2/files-2.1/ad961e24ba04a1e1841f7ed8c0d15265/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/30c94d137a2452df57ba85b63a61327b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/30c94d137a2452df57ba85b63a61327b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/abafcd730b93dc401e263c3d6bb92276/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/abafcd730b93dc401e263c3d6bb92276/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/4a30d58ee29928a48066b38bdc1d3464/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/4a30d58ee29928a48066b38bdc1d3464/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/067154d4c64ec215bd634120b4c9ec5b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/067154d4c64ec215bd634120b4c9ec5b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/f8a0429a5701e4aaae1236d141be6194/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/f8a0429a5701e4aaae1236d141be6194/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/1d0248a54d54976130d2216ad58ddb3b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/1d0248a54d54976130d2216ad58ddb3b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/df7008e27fca8136c93020aade0387c5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/df7008e27fca8136c93020aade0387c5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/f88d56b18ea265b046dba8e3627054d5/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/f88d56b18ea265b046dba8e3627054d5/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/jouch/.gradle/caches/transforms-2/files-2.1/75d1b6c461a6d5f4452ada4ecc5a6105/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/jouch/.gradle/caches/transforms-2/files-2.1/75d1b6c461a6d5f4452ada4ecc5a6105/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/0c1862394f95b16578c34adde7b24528/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/0c1862394f95b16578c34adde7b24528/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/47c4e38a95087910cc8cc44344cf51f0/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/47c4e38a95087910cc8cc44344cf51f0/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/4ad8f1d2c61b21f6a3ad2f459d5485a6/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/4ad8f1d2c61b21f6a3ad2f459d5485a6/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/ceee0ea4d673dfd6f653e7866a43e893/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/ceee0ea4d673dfd6f653e7866a43e893/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/64369627ba101b77e2039962bf3b52f8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/64369627ba101b77e2039962bf3b52f8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/4f2a184e0cb415afc90c11d48f91246f/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/4f2a184e0cb415afc90c11d48f91246f/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/ed76d80430e9ad3255744a732e7ed969/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/ed76d80430e9ad3255744a732e7ed969/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/a7e7ff19fa490b39e9a2341e3180972b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/a7e7ff19fa490b39e9a2341e3180972b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/65784b4722257490f711a4aa8fae514c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/65784b4722257490f711a4aa8fae514c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/c7e7ec4faddb03dacd0fc71915b0815e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/c7e7ec4faddb03dacd0fc71915b0815e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/7ddb4a511bf0374619b2af251cc8c8d8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jouch/.gradle/caches/transforms-2/files-2.1/7ddb4a511bf0374619b2af251cc8c8d8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml

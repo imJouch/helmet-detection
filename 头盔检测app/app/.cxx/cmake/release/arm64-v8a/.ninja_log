@@ -1,0 +1,4 @@
+# ninja log v5
+0	17	0	clean	d812897aee74a95b
+0	3045	1617278961	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	c0debb4557068258
+3047	3711	1617278962	/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/build/intermediates/cmake/release/obj/arm64-v8a/libyolov5ncnn.so	5bb5f9852140056b

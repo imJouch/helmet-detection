@@ -1,0 +1,55 @@
+{
+  "stringTable": {
+    "0": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android24 --gcc-toolchain=/Users/jouch/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jouch/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dyolov5ncnn_EXPORTS -isystem /Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/include/ncnn -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC -fno-rtti -fno-exceptions"
+  },
+  "buildFiles": [
+    "/Users/jouch/Library/Android/sdk/ndk-bundle/build/cmake/compiler_id.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnn.cmake",
+    "/Users/jouch/Library/Android/sdk/ndk-bundle/build/cmake/android-legacy.toolchain.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/CMakeLists.txt",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/OGLCompilerTargets-release.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/glslangTargets-release.cmake",
+    "/Users/jouch/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/OGLCompilerTargets.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/glslangTargets.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnn-release.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/SPIRVTargets-release.cmake",
+    "/Users/jouch/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/SPIRVTargets.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/OSDependentTargets.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/OSDependentTargets-release.cmake",
+    "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/ncnn-20210322-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnnConfig.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/jouch/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/jouch/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Release-arm64-v8a": {
+      "buildCommand": "/Users/jouch/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/.cxx/cmake/release/arm64-v8a\" yolov5ncnn",
+      "buildType": "release",
+      "toolchain": "125640030",
+      "abi": "arm64-v8a",
+      "artifactName": "yolov5ncnn",
+      "files": [
+        {
+          "src": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/jni/yolov5ncnn_jni.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/build/intermediates/cmake/release/obj/arm64-v8a/libyolov5ncnn.so"
+    }
+  },
+  "toolchains": {
+    "125640030": {
+      "cppCompilerExecutable": "/Users/jouch/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

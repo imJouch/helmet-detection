@@ -1,0 +1,74 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tencent.yolov5ncnn.crack"
+4    android:versionCode="1"
+5    android:versionName="1.01.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml
+10    <!-- 授予该程序使用摄像头的权限 -->
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:7:5-65
+11-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:7:22-62
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:8:5-60
+13-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:8:19-57
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:9:5-70
+14-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:9:19-67
+15    <!-- 保存或读出图片还应该添加读写权限 -->
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:11:5-80
+16-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:12:5-79
+17-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:12:22-77
+18
+19    <application
+19-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:13:5-34:19
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.0.1] /Users/jouch/.gradle/caches/transforms-2/files-2.1/75d1b6c461a6d5f4452ada4ecc5a6105/core-1.0.1/AndroidManifest.xml:22:18-86
+21        android:label="非机动车头盔佩戴检测" >
+21-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:13:18-44
+22        <provider
+22-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:14:9-24:20
+23            android:name="androidx.core.content.FileProvider"
+23-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:17:13-62
+24            android:authorities="com.example.cameratest.fileprovider"
+24-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:15:13-70
+25            android:exported="false"
+25-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:18:13-37
+26            android:grantUriPermissions="true" >
+26-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:19:13-47
+27            <meta-data
+27-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:20:13-22:54
+28                android:name="android.support.FILE_PROVIDER_PATHS"
+28-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:21:17-67
+29                android:resource="@xml/file_paths" />
+29-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:22:17-51
+30        </provider>
+31
+32        <activity
+32-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:27:9-33:20
+33            android:name="com.tencent.yolov5ncnn.MainActivity"
+33-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:27:19-46
+34            android:label="@string/app_name" >
+34-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:28:19-51
+35            <intent-filter>
+35-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:29:13-32:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:30:17-69
+36-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:30:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:31:17-77
+38-->/Users/jouch/Downloads/ncnn-android-yolov5-master的副本/app/src/main/AndroidManifest.xml:31:27-74
+39            </intent-filter>
+40        </activity>
+41    </application>
+42
+43</manifest>
